@@ -1,6 +1,6 @@
 Intern Experience
 =====================
-Important: Because it involves business secrets, you must be very responsible to abide by the confidentiality agreement and assume the responsibilities. I am sorry that I cannot show more details. Here I only show my internship experience, relevant knowledge learned, skill improvement, and personal perception.
+Important: Because it involves business secrets, must be very responsible to abide by the confidentiality agreement and assume the responsibilities. I am sorry that I cannot show more details. Here I only show my internship experience, relevant knowledge learned, skill improvement, and personal perception.
 
 Software Developer Intern (AICare.AI)
 ------------------------------------
