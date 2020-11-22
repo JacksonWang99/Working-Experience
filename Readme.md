@@ -11,7 +11,7 @@ Aug 2020 - Nov 2020
       * Understand and learn Amazon artificial intelligence natural language processing logic.
       * Familiar with Amazon Alexa developer console development process and coding some Interactive Alexa Skills for the Amazon Echo Show.
   3. Web Front-end and Back-end Develop, React, Ant Design, Element web components and related knowledge.(JavaScript, CSS, HTML, SQL, Express)
-  4. AWS RDB
+  4. AWS RDS
       * AWS RDS Database establishment and use.
       * SQL usage, database-schema creation.
       * Skilled use of MySQL Workbench, add, delete, modify and check the corresponding tables of the database.
