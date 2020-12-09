@@ -17,7 +17,7 @@ Aug 2020 - Nov 2020
       * Skilled use of MySQL Workbench, add, delete, modify and check the corresponding tables of the database.
       * Amazon Lambda
 
- Data Secience Intern(DJ TECHNOLOGY&CONSULTING PTY LTD)
+ Data Analyst/Secience Intern(DJ TECHNOLOGY&CONSULTING PTY LTD)
 --------------------------------------
 (Recommendation engine building  for US e-commerce client)
 Jun 2020 - Sep 2020
